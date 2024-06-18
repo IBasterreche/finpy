@@ -1,0 +1,33 @@
+{
+    "recommendations": [
+        "littlefoxteam.vscode-python-test-adapter",
+        "njpwerner.autodocstring",
+        "waderyan.gitblame",
+        "donjayamanne.git-extension-pack",
+        "donjayamanne.githistory",
+        "felipecaputo.git-project-manager",
+        "github.vscode-github-actions",
+        "bierner.markdown-preview-github-styles",
+        "bierner.markdown-emoji",
+        "bierner.markdown-checkbox",
+        "bierner.markdown-yaml-preamble",
+        "github.vscode-pull-request-github",
+        "codezombiech.gitignore",
+        "eamodio.gitlens",
+        "visualstudioexptteam.vscodeintellicode",
+        "visualstudioexptteam.intellicode-api-usage-examples",
+        "ms-toolsai.jupyter",
+        "davidanson.vscode-markdownlint",
+        "ziyasal.vscode-open-in-github",
+        "alefragnani.project-manager",
+        "ms-python.vscode-pylance",
+        "bierner.markdown-mermaid",
+        "bierner.markdown-footnotes",
+        "bierner.github-markdown-preview",
+        "donjayamanne.python-environment-manager",
+        "kevinrose.vsc-python-indent",
+        "ms-python.debugpy",
+        "hbenl.vscode-test-explorer",
+        "ms-vscode.test-adapter-converter"
+    ]
+}
